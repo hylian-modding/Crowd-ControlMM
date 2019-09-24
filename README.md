@@ -30,6 +30,11 @@ not allowed as well the core is case sensitive. If you should mess up the core i
 is simple enough to modify the package-dry.json in the root directory, and the package.json
 in your source/Plugin directory.
 
+Final Note: In your newly generated plugin, you will have 1 error immediately that needs fixed.
+In the src/plugin/src/main.ts file @inject_core will error because your core name will DEFINITELY
+not match an actual game core. You need to investigate the API cores to determine the name of the
+game core interface to fill in to properly access the games core and begin your plugin.
+
 ## Updating ModLoader64
 Should you need to update ModLoader64 all you need to do is run Scripts/OS/update_modloader64.
 
