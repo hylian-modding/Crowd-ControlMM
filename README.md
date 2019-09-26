@@ -38,6 +38,13 @@ game core interface to fill in to properly access the games core and begin your 
 ## Updating ModLoader64
 Should you need to update ModLoader64 all you need to do is run Scripts/OS/update_modloader64.
 
+## From a Fresh Pull
+Should you have just pulled this from github using a git client you must start by running the 
+Update script listed in step above in order to pull the dependancy repository [ModLoader64](https://github.com/hylian-modding/ModLoader64).
+
+Pulling the repository manually as a zip file requires downloading the ModLoader64 manually
+and placing its contents into the ModLoader64 folder located in the root of this repository.
+
 ## Running
 
 Requirement - NodeJS:
