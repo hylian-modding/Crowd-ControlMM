@@ -71,7 +71,7 @@ ECHO { > %CF%
 ECHO   "name": "%NAME%", >> %CF%
 ECHO   "version": "%VERSION%", >> %CF%
 ECHO   "description": "%DESCRIPTION%", >> %CF%
-ECHO   "main": "%NAME%.json", >> %CF%
+ECHO   "main": "%NAME%.js", >> %CF%
 ECHO   "author": "%AUTHOR%", >> %CF%
 ECHO   "credits": "%CREDITS%", >> %CF%
 ECHO   "license": "%LICENSE%", >> %CF%

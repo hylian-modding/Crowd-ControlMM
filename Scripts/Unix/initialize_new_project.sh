@@ -72,7 +72,7 @@ echo '{
   "name": "'$NAME'",
   "version": "'$VERSION'",
   "description": "'$DESCRIPTION'",
-  "main": "'$NAME'.json",
+  "main": "'$NAME'.js",
   "author": "'$AUTHOR'",
   "credits": "'$CREDITS'",
   "license": "'$LICENSE'",
