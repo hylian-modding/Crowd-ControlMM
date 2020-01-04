@@ -1,0 +1,13 @@
+{ 
+  "name": "tmi", 
+  "version": "1.0.0", 
+  "description": "Twitch Message Interface for ML64", 
+  "main": "tmi.js", 
+  "author": "denoflions", 
+  "credits": "", 
+  "license": "", 
+  "core": "tmi", 
+  "dry": { 
+    "extends": "./ModLoader64/package-dry.json" 
+  } 
+} 
