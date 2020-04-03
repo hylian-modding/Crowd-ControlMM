@@ -1,0 +1,13 @@
+{
+  "name": "Crowd-ControlMM",
+  "version": "1.0.0",
+  "description": "Uses the Twitch Message Interface to communicate twitch commands interacting with the game.",
+  "main": "Main.js",
+  "author": "Drahsid",
+  "credits": "denoflions, SpiceyWolf",
+  "license": "GPL3",
+  "core": "OcarinaofTime",
+  "modloader64_deps": {
+    "MajorasMask": "https://github.com/hylian-modding/Core-MajorasMask"
+  }
+}
