@@ -6,7 +6,7 @@
   "author": "Drahsid",
   "credits": "denoflions, SpiceyWolf",
   "license": "GPL3",
-  "core": "OcarinaofTime",
+  "core": "MajorasMask",
   "modloader64_deps": {
     "MajorasMask": "https://github.com/hylian-modding/Core-MajorasMask"
   }
